@@ -1,0 +1,6 @@
+# Files to ignore during Vercel deployment
+*.py
+*.csv
+*.md
+.DS_Store
+.git
